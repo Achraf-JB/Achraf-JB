@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  AWS
 
 - 📫 How to reach me **jarbouiachraf899@gmail.com**
-- ⚡ Fun fact **⚡ Fun fact I love The Weeknd**
+- ⚡ Fun fact I love The Weekend
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/achref-jarboui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref jarboui" height="30" width="40" /></a>
