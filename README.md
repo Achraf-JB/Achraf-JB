@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Achraf Jarboui</h1>
-<h3 align="center">Passionate Student Embracing the World of AI and DevOps</h3>
+<h3 align="center">Passionate Student Embracing the World of  DevOps</h3>
 <img align="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/30f786dd26e83d30d92f7a413a17a011723a49b1f38e4e73170ccc10f7e4194e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achraf-jb&label=Profile%20views&color=0e75b6&style=flat" alt="achraf-jb" /> </p>
-- 🌱 I’m currently learning  AWS
+- 🌱 I’m currently learning  AWS , kubernetes
 
 - 📫 How to reach me **jarbouiachraf899@gmail.com**
 - ⚡ Fun fact I love The Weekend
